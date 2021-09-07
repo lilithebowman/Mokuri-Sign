@@ -1,6 +1,6 @@
 # Mokuri-Sign
 A sign I created based on some concept art in the Mokuri server
 
-![Concept art of sign with helm and triangle] (https://github.com/lilithebowman/Mokuri-Sign/blob/main/ConceptArt.png?raw=true "Concept art of a sign on a Mokuri building showing a helm and a triangle")
+![image](https://user-images.githubusercontent.com/1637212/132405651-4889553b-5eaf-4134-b8e8-063ff73d91ab.png)
 
 Created in Blender by LilitheLotor (CC0 license) for the open submissions at https://twitter.com/mokuriproject/status/1434207980174462982
